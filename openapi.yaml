@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: API to create pages in Notion via a proxy server
 servers:
-  - url: https://your-proxy-server.com
+  - url: https://bb9e5944-5cfd-49b9-9a17-f69254cd2704-00-3ezl59y59twif.janeway.replit.dev/
 paths:
   /create-notion-page:
     post:
